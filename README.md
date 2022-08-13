@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
 <h3 align="center">Computer Science student at Bursa Teknik Üniversitesi</h3>
 
-- 🌱 I’m currently learning **Flutter and Vue.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **betulyna0@gmail.com**
 
