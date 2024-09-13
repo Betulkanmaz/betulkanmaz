@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
 <h3 align="center">Junior Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **betulyna0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
