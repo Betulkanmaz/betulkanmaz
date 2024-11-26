@@ -2,6 +2,7 @@
 <h3 align="center">Junior Flutter Developer</h3>
 
 - 📫 How to reach me **betulyna0@gmail.com**
+- I'm currently learning Kotlin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
