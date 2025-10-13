@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Betul</h1>
-<h3 align="center">Junior Flutter Developer</h3>
+<h3 align="center">Flutter Developer</h3>
 
 - 📫 How to reach me **betulyna0@gmail.com**
 - I'm currently learning **Kotlin**
